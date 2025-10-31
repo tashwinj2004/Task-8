@@ -1,0 +1,8 @@
+- Key Performance Indicators (KPIs):
+	Displayed at the top of the dashboard to highlight total revenue and net profit, offering a quick snapshot of overall business performance.
+- Monthly Revenue Trend – Line Chart:
+	A dynamic line chart illustrates the month-over-month revenue trend, helping identify seasonal patterns, growth trajectories, and anomalies over time.
+- Regional Revenue Distribution – Bar Graph:
+	A comparative bar graph breaks down revenue by region, enabling clear insights into geographic performance and regional contribution to total sales.
+- Order Volume by Product Category – Donut Chart:
+	A visually engaging donut chart showcases the distribution of order counts across product categories, making it easy to spot top-performing segments.
